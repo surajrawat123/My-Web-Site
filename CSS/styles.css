@@ -1,0 +1,109 @@
+a{
+    color: #11999E;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'MonteCarlo', cursive;
+}
+
+.bottom_cloud{
+    position: absolute;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px 0 20px ;
+}
+.bottom-container p {
+    color: #EAF6F6;
+}
+
+.btn{
+    background-color: rgb(19, 102, 70);
+    border-radius: 5px;
+    padding: 6px;
+    color: white;
+}
+
+.footer-link{
+    color: black;
+    font-size: 25px;
+    margin-right: 15px;
+}
+
+h1{
+    margin: 50px 0 auto 0;
+    font-size: 80px;
+    color: #66BFBF;
+    line-height: 1;
+}
+h2{
+    color: #66BFBF;
+    font-size: 2.3rem;
+    font-weight: normal;
+}
+h3{
+    font-size: 32px;
+    margin: 10px;
+    color:#11999E;
+}
+hr{
+    border-style: dotted none none none;
+    width: 4%;
+    border-width: 5px;
+    border-color: gray;
+}
+
+.javascript{
+    float: right;
+    margin-right: 10px  ;
+}
+
+.middle-container{
+    margin-bottom: 0;
+    background-color: #EEEEEE;
+    padding-bottom: 20px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.profile img{
+    height: 130px;
+    width: 130px;
+}
+
+.react{
+    float: left;
+    margin-right: 10px;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 40px auto 40px auto;
+    text-align: left;
+}
+.skill-row-description-react{
+    clear: left;
+}
+.skill-row-description-javascript{
+    clear: right;
+}
+
+.top_container{
+    background-color: lightblue;
+}
+
+.top_cloud{
+    position: absolute;
+    top: 70px;
+    right: 300px;
+}
+.top_container{
+    padding-top: 100px;
+    position: relative;
+    padding-bottom: 0;
+}
